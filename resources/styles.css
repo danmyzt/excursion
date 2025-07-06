@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+p {
+   color: white;
+}
+
+a {
+   color: aquamarine;
+}
+
+h2 {
+    opacity: 50%;
+}
+
+h3 {
+    text-align: right;
+    opacity: 50%;
+}
+
+
