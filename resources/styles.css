@@ -1,6 +1,7 @@
 body {
   background-color: black;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
   text-align: center;
 }
 
@@ -9,6 +10,15 @@ h2,
 h3,
 p {
    color: white;
+   font-weight: 300;
+}
+
+p {
+    font-size: 1rem;
+}
+
+h1 {
+    font-size: 3,125rem;
 }
 
 a {
@@ -17,11 +27,16 @@ a {
 
 h2 {
     opacity: 50%;
+    font-size: 21px;
 }
 
 h3 {
     text-align: right;
     opacity: 50%;
+}
+
+.icon {
+    padding-top: 1rem;
 }
 
 
